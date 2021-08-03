@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testBreakingBad" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-03T14:19:20" hostname="LAPTOP-4L5M6NIS" time="2.603">
+  <properties/>
+  <testcase name="AllData()" classname="testBreakingBad" time="2.603"/>
+  <system-out><![CDATA[Request method:	GET
+Request URI:	https://breakingbadapi.com/api/characters
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Name: [Walter White, Jesse Pinkman, Skyler White, Walter White Jr., Henry Schrader, Marie Schrader, Mike Ehrmantraut, Saul Goodman, Gustavo Fring, Hector Salamanca, Domingo Molina, Tuco Salamanca, Marco & Leonel Salamanca, Lydia Rodarte-Quayle, Todd Alquist, Jane Margolis, Skinny Pete, Brandon Mayhew, Huell Babineaux, Steven Gomez, Theodore Beneke, Gale Boetticher, Andrea Cantillo, Brock Cantillo, Carmen Molina, Gretchen Schwartz, Elliot Schwartz, Gonzo, Christian Ortgea, Mrs. Pinkman, Adam Pinkman, Jake Pinkman, No-Doze, Emilio Koyama, Dr. Delcavoli, Wendy S., Bogdan Wolynetz, Ken, Holly White, George Merkert, Donald Margolis, Clovis, SAC Ramey, Victor, Tomás Cantillo, Francesca Liddy, Cynthia, Tortuga, Tim Roberts, Juan Bolsa, Group Leader, Kaylee Ehrmantraut, Pamela, Duane Chow, Stacey Ehrmantraut, Officer Saxton, Jack Welker, Kimberly Wexler, Howard Hamlin, Charles McGill, Ignacio Varga, Eduardo Salamanca]
+---
+Occupation: [[High School Chemistry Teacher, Meth King Pin], [Meth Dealer], [House wife, Book Keeper, Car Wash Manager, Taxi Dispatcher], [Teenager], [DEA Agent], [Housewife, Clepto], [Hitman, Private Investigator, Ex-Cop], [Lawyer], [Los-Pollos co-Founder, Philanthropist, Cartel Leader], [Former Senior Cartel Leader], [Meth Distributor], [Meth Distributor], [Cartel Hitman], [Executive at Madrigal], [Lab Assistant, Enforcer, Meth Cook], [Tattoo Artist, Landlord], [Low-level meth distributer], [Low-level meth distributer], [Bodyguard], [DEA Agent], [Former President Beneke Fabricators], [Chemist, Meth manufacturer], [Unknown], [Kid], [High School Principal], [Co-owner Gray Matter], [Co-Founder Gray Matter], [Tuco's Bodyguard], [Low-level meth distributor], [unknown], [unknown], [Kid, Jesse's little brother], [Juarez Cartel Lieutenant], [Low-level meth distributor], [Physician], [Prostitute], [Former owner of A1A Car Wash], [Stock Broker], [Infant], [Former Head of Albuquerque DEA], [Air-Traffic Controller, Landlord], [Mechanic], [DEA agent], [Henchman of Gustavo Fring], [Kid, Gang member for a rival dealer in ABQ], [Department of Motor Vehicles, Secretary for Saul Goodman Associates], [Los Pollos Hermanos Manager], [Juarez Cartel member, DEA informant], [Detective for the APD], [Mexican drug cartel boss], [Drug & Alcohol Rehabilitation Counselor], [Kid], [Attorney], [Owner of Golden Moth Chemical], [Mother], [APD Officer], [Criminal Gang Leader], [Lawyer], [Lawyer], [Lawyer], [Crimal Gang Lieutenant], [Cartel Member]]
+---
+Birthday: [09-07-1958, 09-24-1984, 08-11-1970, 07-08-1993, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown, Unknown]
+---
+Status: [Presumed dead, Alive, Alive, Alive, Deceased, Alive, Deceased, Alive, Deceased, Deceased, Deceased, Deceased, Deceased, Deceased, Deceased, Deceased, Alive, Alive, Alive, Deceased, Alive, Deceased, Deceased, Alive, Alive, Alive, Alive, Deceased, Deceased, Alive, Alive, Alive, Deceased, Deceased, Alive, Alive, Alive, Alive, Alive, Alive, Unknown, Alive, Alive, Deceased, Deceased, Alive, Alive, Deceased, Alive, Deceased, Alive, Alive, Alive, Deceased, Alive, Alive, Deceased, Alive, Alive, Deceased, Alive, Alive]
+---
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
